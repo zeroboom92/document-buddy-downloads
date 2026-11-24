@@ -1,11 +1,11 @@
-# 문서 도우미 설치
+# 쏙 설치
 
 **[Windows 64비트용 최신 설치 프로그램 받기](https://github.com/zeroboom92/document-buddy-downloads/releases/latest/download/DocumentBuddy-win-x64-Setup.exe)**
 
-받은 `DocumentBuddy-win-x64-Setup.exe`를 실행하세요. GitHub 로그인 없이 받을 수 있고, 설치하면 시작 메뉴와 바탕화면에 **문서 도우미** 바로가기가 생깁니다.
+받은 EXE를 실행하면 Windows 시작 메뉴와 바탕화면에 **쏙** 바로가기가 생깁니다. GitHub 로그인 없이 받을 수 있습니다.
 
-기존에 ZIP 버전을 실행 중이라면, 먼저 작업 표시줄 알림 영역의 문서 도우미 아이콘을 오른쪽 클릭해 **종료**를 선택한 뒤 설치해 주세요. 설치한 버전은 새 버전을 자동으로 내려받아 컴퓨터를 사용하지 않을 때 적용합니다.
+이미 설치한 분은 앱이 새 정식 버전을 내려받아 사용하지 않을 때나 다음 실행 때 적용합니다. 예전 ZIP 버전을 사용 중이라면 작업 표시줄 알림 영역의 아이콘을 오른쪽 클릭해 **종료**한 뒤 설치 프로그램을 실행해 주세요.
 
-문서 도우미는 HWP를 HWPX로 바꾸거나 HWP·HWPX를 PDF와 PNG로 저장할 수 있는 교실용 Windows 앱입니다. 탐색기에서 문서를 끄는 도중 **Shift**를 누르면 커서 근처에 변환 메뉴가 열립니다. Shift에서 손을 뗀 뒤에도 끌던 파일을 원하는 형식에 놓을 수 있습니다.
+탐색기에서 파일을 끄는 도중 **Shift**를 누르면 파일에 맞는 변환 버튼이 나타납니다. HWP와 HWPX를 변환하고, PDF를 페이지별 PNG로 내보내거나 PNG 여러 장을 순서대로 PDF 하나에 담을 수 있습니다.
 
 [최신 버전 변경 사항 보기](https://github.com/zeroboom92/document-buddy-downloads/releases/latest)
